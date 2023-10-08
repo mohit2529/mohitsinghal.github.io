@@ -11,7 +11,7 @@ title                    : "Mohit Singhal / Site Title"
 title_separator          : "-"
 name                     : &name "Mohit Singhal"
 description              : &description "personal description"
-url                      : https://github.com/mohit2529/mohitsinghal.github.io.git
+url                      : https://mohit2529/mohitsinghal.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohit2529/mohitsinghal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
